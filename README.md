@@ -1,16 +1,15 @@
-### Hi there 👋
+# <img src="https://media.giphy.com/media/Rfkc4zaHzY6oZeOZpM/giphy.gif" width="200px">  Hi there :wave: I'm Kien Thiet Hoang
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Nice to meet you~
 
-<!--
-**smoothkt4951/smoothkt4951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Machine learning is something I'm interested in.
 
-Here are some ideas to get you started:
+🌱 Fourth-year student in Software Engineering at Ton Duc Thang University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I'm looking for an internship. Proven passion for <b>Python</b> below :scroll: 
+
+---
+
+[![KiennThiett's github stats](https://github-readme-stats.vercel.app/api?username=smoothkt4951&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smoothkt4951&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b>:smile:</em>
