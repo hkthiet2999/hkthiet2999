@@ -1,11 +1,7 @@
 # <img src="https://media.giphy.com/media/Rfkc4zaHzY6oZeOZpM/giphy.gif" width="200px">  Hi there :wave: I'm Kien Thiet Hoang
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Nice to meet you~
 
-🔭 Machine learning is something I'm interested in.
-
-🌱 Fourth-year student in Software Engineering at Ton Duc Thang University
-
-🤔 I'm looking for an internship. Proven passion for <b>Python</b> below :scroll: 
+Email: [hkthiet99@gmail.com](mailto:hkthiet99@gmail.com)
 
 ---
 
