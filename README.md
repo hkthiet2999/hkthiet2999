@@ -3,10 +3,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> &nbsp;&nbsp;&nbsp;Nice to meet you!! Please contact me under
 <br>
 <ul>
-<a href="https://www.linkedin.com/in/hkthiet99/"><img alt="My LinkedIn Profile" src="https://user-images.githubusercontent.com/54468119/128960672-be6b9150-e21e-4dc0-8614-4721ab140a9b.png" width="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:hkthiet99@gmail.com"><img alt="Mail to me" src="https://user-images.githubusercontent.com/54468119/128960619-253d6815-ef8f-47b1-9399-bcb7b9f0b652.png" width="50"></a>
+<a href="https://www.linkedin.com/in/hkthiet99/" target="_blank"><img alt="My LinkedIn Profile" src="https://user-images.githubusercontent.com/54468119/128960672-be6b9150-e21e-4dc0-8614-4721ab140a9b.png" width="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="mailto:hkthiet99@gmail.com"><img alt="Mail to me" src="https://user-images.githubusercontent.com/54468119/128960619-253d6815-ef8f-47b1-9399-bcb7b9f0b652.png" width="50"></a>
 <br>
 <br> 
-<a href="https://www.facebook.com/smooth.kie.thie.0"><img alt="My Facebook Profile" src="https://user-images.githubusercontent.com/54468119/128960621-982cd429-b07f-46f6-82be-2f08200d58b6.png" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a  href="http://cv-hkthiet99.herokuapp.com/"><img src="https://user-images.githubusercontent.com/54468119/128960614-520de2bc-78f1-46ef-853b-ed8d78fe324c.png" width="50" alt="My CV Online"></a>
+<a target="_blank" href="https://www.facebook.com/smooth.kie.thie.0"><img alt="My Facebook Profile" src="https://user-images.githubusercontent.com/54468119/128960621-982cd429-b07f-46f6-82be-2f08200d58b6.png" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank"  href="http://cv-hkthiet99.herokuapp.com/"><img src="https://user-images.githubusercontent.com/54468119/128960614-520de2bc-78f1-46ef-853b-ed8d78fe324c.png" width="50" alt="My CV Online"></a>
 
 </ul>
 
