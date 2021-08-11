@@ -10,8 +10,6 @@
 
 </ul>
 
-
-[<img alt="My LinkedIn Profile" src="https://user-images.githubusercontent.com/54468119/128960672-be6b9150-e21e-4dc0-8614-4721ab140a9b.png" width="50">](https://www.linkedin.com/in/hkthiet99/){:target="_blank"}
 ---
 
 [![KiennThiett's github stats](https://github-readme-stats.vercel.app/api?username=smoothkt4951&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smoothkt4951&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
