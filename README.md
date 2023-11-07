@@ -2,9 +2,9 @@
 
 ---
 
-[![KiennThiett's github stats](https://github-readme-stats.vercel.app/api?username=smoothkt4951&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smoothkt4951&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![KiennThiett's github stats](https://github-readme-stats.vercel.app/api?username=hkthiet2999&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkthiet2999&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-_See [profile-summary](https://profile-summary-for-github.com/user/smoothkt4951)_
+_See [profile-summary](https://profile-summary-for-github.com/user/hkthiet2999)_
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> &nbsp;&nbsp;&nbsp;Nice to meet you!! Please contact me under
